@@ -8,5 +8,8 @@ public class what {
 		System.out.println("Branch changes");
 
 	}
+	void secondbranch() {
+		System.out.println("halooo");
+	}
 
 }
